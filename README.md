@@ -17,11 +17,13 @@ Because none of the existing UML generators I've seen seem to work properly (or 
 
 # ...Why?²
 
-Let's agree for a second... I know, we're all developers and this can be impossible sometimes but, hear me out on this one: Making UMLs is ***NOT FUN!*** It's so much manual work take takes so much time that could be used for coding.  
+Let's agree for a second... I know, we're all developers and this can be impossible sometimes but, hear me out on this one: Making UMLs is ***NOT FUN!*** It's so much manual work and takes so much time that could be used for coding.  
 
 As developers, we wan't to code, fail miserably for a lack of proper documentation and guidelines to follow and then debug everything until it works! (right guys?)  
 
-So that's where *uml-gen-tw* comes into play, you can code everything and then let *uml-gen-tw* take care of that boring UML that your manager (superior, instructor, professor) asks you to make. That's perfect, right?
+So that's where *uml-gen-tw* comes into play, you can code everything and then let *uml-gen-tw* take care of that boring UML that your manager (superior, instructor, professor) asks you to make. 
+
+That's perfect, right?
 
 # YES!
 
